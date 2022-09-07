@@ -53,7 +53,7 @@ function Post(props) {
                 {footerIconsList.map(icon => (
                     <div>
                         <img
-                            src={icons[icon]}
+                            src={icons[icon+"Text"]}
                             alt={icon}
                         />
                     </div>

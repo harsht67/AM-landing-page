@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="19.942" viewBox="0 0 57 19.942">
+  <g id="Group_77" data-name="Group 77" transform="translate(-321 -1329)">
+    <path id="thumb_up_FILL0_wght200_GRAD0_opsz40" d="M21.725,24.609H10.073v-12.7l7.246-7.246.406.348a1.259,1.259,0,0,1,.246.362,1.047,1.047,0,0,1,.1.449v.145l-1.217,5.942H25.29A1.787,1.787,0,0,1,27,13.624v1.449q0,.145-.015.333a1.134,1.134,0,0,1-.072.333L23.7,23.333a1.978,1.978,0,0,1-.812.913A2.171,2.171,0,0,1,21.725,24.609Zm-10.667-.985H21.84a1.2,1.2,0,0,0,.508-.131.757.757,0,0,0,.391-.449l3.275-7.71v-1.71a.695.695,0,0,0-.724-.725H15.7L17,6.319l-5.942,6.029Zm0-11.276v0Zm-.985-.435V12.9H5.986V23.624h4.087v.985H5v-12.7Z" transform="translate(316 1324.333)"/>
+    <text id="Like" transform="translate(353 1345)" font-size="12" font-family="IBMPlexSerif-Regular, IBM Plex Serif"><tspan x="0" y="0">Like</tspan></text>
+  </g>
+</svg>

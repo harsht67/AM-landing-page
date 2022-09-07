@@ -7,6 +7,7 @@ import google from '../assests/google.png'
 import google2 from '../assests/google2.png'
 import user from '../assests/user.svg'
 import galleryImg1 from '../assests/galleryImg1.png'
+import galleryImg2 from '../assests/galleryImg2.png'
 import galleryImg1x2 from '../assests/galleryImg1x2.png'
 import postImg1 from '../assests/postImg1.png'
 import postImg2 from '../assests/postImg2.png'
@@ -25,6 +26,7 @@ export default {
     google2,
     user,
     galleryImg1,
+    galleryImg2,
     galleryImg1x2,
     postImg1,
     postImg2,

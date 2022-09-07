@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="20.869" viewBox="0 0 88 20.869">
+  <g id="Group_76" data-name="Group 76" transform="translate(-462 -1329)">
+    <path id="chat_FILL0_wght200_GRAD0_opsz40" d="M9.278,17.833h8.495V16.794H9.278Zm0-3.758H22.722V13.036H9.278Zm0-3.758H22.722V9.278H9.278ZM5,25.869V6.772A1.773,1.773,0,0,1,6.772,5H25.228A1.773,1.773,0,0,1,27,6.772V20.339a1.773,1.773,0,0,1-1.772,1.772H8.758Zm1.039-2.505L8.3,21.072H25.228a.73.73,0,0,0,.733-.733V6.772a.729.729,0,0,0-.733-.733H6.772a.729.729,0,0,0-.733.733Zm0-16.592v0Z" transform="translate(457 1324)"/>
+    <text id="Comment" transform="translate(494 1345)" font-size="12" font-family="IBMPlexSerif-Regular, IBM Plex Serif"><tspan x="0" y="0">Comment</tspan></text>
+  </g>
+</svg>

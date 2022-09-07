@@ -87,14 +87,6 @@ function FooterMain() {
 
             </section>
 
-            <section className="FooterMain__map">
-
-                <h2 className="FooterMain__title f5">
-                    Google maps
-                </h2>
-
-            </section>
-
         </section>
     )
 }

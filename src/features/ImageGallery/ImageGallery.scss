@@ -22,6 +22,7 @@
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
+        cursor: pointer;
     }
 
     .arrow--left {
@@ -34,6 +35,19 @@
 
     Button {
         margin-block-start: 2rem;
+    }
+
+    .ImageGallery__nav {
+        position: absolute;
+        bottom: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+
+        img {
+            margin-inline-end: 0.5rem;
+            cursor: pointer;
+        }
+
     }
 
 }
