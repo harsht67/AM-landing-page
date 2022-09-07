@@ -1,0 +1,27 @@
+.FooterFooter {
+    padding: 2rem 5rem;
+    background-color: #333333;
+    border-block-start: 2px solid #adadad;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    small {
+        color: #fff;
+
+        > :nth-child(1) {
+            color: #f70b0f;
+        }
+
+        > :nth-child(2), :nth-child(5) {
+            color: #f8a61c;
+        }
+
+        :nth-child(3), :nth-child(6) {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+    }
+
+}

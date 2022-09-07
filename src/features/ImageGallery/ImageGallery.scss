@@ -1,0 +1,39 @@
+.ImageGallery {
+    position: relative;
+    padding: 0 5rem;
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1rem;
+    color: #fff;
+
+    .ImageGallery__title {
+        color: #F8A61C;
+    }
+
+    .ImageGallery__desc {
+        width: 60%;
+    }
+
+    .ImageGallery__arrowBtn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .arrow--left {
+        left: 1rem;
+    }
+
+    .arrow--right {
+        right: 1rem;
+    }
+
+    Button {
+        margin-block-start: 2rem;
+    }
+
+}

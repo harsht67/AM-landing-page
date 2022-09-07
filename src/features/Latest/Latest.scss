@@ -1,0 +1,29 @@
+.Latest {
+    height: 600px;
+    display: flex;
+
+
+    .Latest__header {
+        width: 15%;
+        background-color: #f8a61c;
+        text-transform: uppercase;
+        font-weight: 700;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+
+        > *:first-child {
+            color: #fff;
+        }
+
+    }
+
+    .Latest__post {
+        width: 85%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+}

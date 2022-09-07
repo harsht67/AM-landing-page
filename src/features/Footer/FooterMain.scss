@@ -1,0 +1,52 @@
+.FooterMain {
+    padding: 2rem 5rem;
+    background-color: #333333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+
+    > * {
+        width: 30%;
+    }
+
+    .FooterMain__title {
+        margin-block-end: 1.5rem;
+    }
+
+    .FooterMain__contact {
+
+        section {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+            margin-block-end: 1rem;
+        }
+
+    }
+
+    .FooterMain__links {
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+
+            li {
+                width: 45%;
+                text-transform: capitalize;
+                cursor: pointer;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+
+            }
+
+        }
+
+    }
+
+}

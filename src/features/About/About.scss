@@ -1,0 +1,29 @@
+.About {
+    padding: 0 5rem;
+    margin-block: 2.5rem;
+    display: flex;
+
+    .About__text {
+        padding: 0 2.5rem;
+        display: flex;
+        flex-flow: column;
+        align-items: flex-start;
+
+        .About__title {
+            text-transform: uppercase;
+            color: #f8a61c;
+        }
+
+        .About__name {
+            text-transform: capitalize;
+            color: #f70b0f;
+            margin-block-end: 1rem;
+        }
+
+        .Button {
+            margin-top: auto;
+        }
+
+    }
+
+}

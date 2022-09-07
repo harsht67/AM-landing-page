@@ -1,0 +1,21 @@
+.SearchBar {
+    position: relative;
+    width: 30%;
+
+    input {
+        width: 100%;
+        border: none;
+        border-radius: 2rem;
+        outline: none;
+        padding: 0.5rem 2rem 0.5rem 1rem;
+    }
+
+    .SearchBar__icon {
+        position: absolute;
+        right: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1.1rem;
+    }
+
+}

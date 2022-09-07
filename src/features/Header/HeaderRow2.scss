@@ -1,0 +1,21 @@
+.HeaderRow2 {
+    padding: 0.5rem 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .HeaderRow2__logo {
+        color: f8a61c;
+        color: #f8a61c;
+    }
+
+    .HeaderRow2__btn {
+        padding: 0.5rem 1rem;
+        border: none;
+        outline: none;
+        font-size: inherit;
+        background-color: #f70b0f;
+        color: #fff;
+    }
+
+}
